@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning how blockchain technology works ...
 
-I am starting my work with tools for Tezos. Afterwards I am interested in tools for Tron and Sol. Last but not least I will take a look into Ethereum and Bitcoin.
+I started my work with tools for Tezos. When I have finished the work on my Tezos toolbox, I will look what is possible with Sol and Tron. Last but not least I will take a look into Ethereum, Bitcoin and Doge maybe some other crypto coins.
 
