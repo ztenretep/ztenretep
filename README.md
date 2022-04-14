@@ -1,4 +1,4 @@
-### Hi everybody out there 👋
+### Hi everybody out there 🖖
 
 <!--
 **ztenretep/ztenretep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
