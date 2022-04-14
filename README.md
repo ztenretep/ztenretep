@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi everybody out there 👋
 
 <!--
 **ztenretep/ztenretep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on tools to manage crypto coins ...
+🔭 I’m currently working on tools to manage crypto coins.
 
-🌱 I’m currently learning how blockchain technology works ...
+🌱 I’m currently learning how blockchain technology works.
 
-I started my work with tools for Tezos. When I have finished the work on my Tezos toolbox, I will look what is possible with Sol and Tron. Last but not least I will take a look into Ethereum, Bitcoin and Doge maybe some other crypto coins.
+- 😄 My preferred programming languages are BASH and Python. I use other programming languages if they offer a faster or better solution.
 
-My preferred programming languages are BASH and Python. I use other programming languages if they offer a faster or better solution. 
+- 👋 I started my current work with tools for Tezos. This was driven by problems with importing private keys, which is now a solved issue.
+
+
 
