@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 - <p align="justify">🗃️ I started my current work with tools for Tezos. This was driven by problems with importing private keys, which is now a solved issue.</p>
 
-<p align="justify">Last but not least I try to figure out how GitHub works and can be used.<p>
-
 <p align="justify">My tools should help myself and ideally others. I would like to spare others the work I had to do to develop the necessary basics.</p>
+
+<p align="justify">Last but not least I try to figure out how GitHub works and can be used.<p>
