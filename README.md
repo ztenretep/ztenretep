@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning how blockchain technology works.
 
-- 📝 My preferred programming languages are BASH and Python. I use other programming languages if they offer a faster or better solution.
+- 📝 <p align="justify">My preferred programming languages are BASH and Python. 
+I use other programming languages if they offer a faster or better solution.</p>
 
 - 💾 I started my current work with tools for Tezos. This was driven by problems with importing private keys, which is now a solved issue.
