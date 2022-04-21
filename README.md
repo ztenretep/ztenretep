@@ -1,4 +1,4 @@
-### Hi everybody out there 🧑‍💻
+### Hi everybody out there 🐍
 
 Besides other things
 
