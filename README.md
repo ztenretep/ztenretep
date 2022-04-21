@@ -26,4 +26,6 @@ Here are some ideas to get you started:
 
 <p align="justify">My tools should help myself and ideally others. I would like to spare others the work I had to do to develop the necessary basics.</p>
 
+<p align="justify">All scripts I present here are for private use by myself. A commercialization is not intended. Certain variables or constants are to be adapted partly in the script, since an input possibility makes only then sense, if often inputs are to be changed. I leave an adjustment to the interested user.</p>
+
 <p align="justify">Last but not least I try to figure out how GitHub works and can be used.<p>
